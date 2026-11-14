@@ -1,0 +1,4 @@
+<!-- Custom SOC lab rules. Rule IDs 100100+ -->
+<!-- TODO: add rules as you write and test them. Document each one in detections/README.md -->
+<group name="soc_lab,">
+</group>
